@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people
-- 🥅 2022 Goals: Rust, TypeScript, Nodejs.....
+- 🥅 2023 Goals: React, JavaScript,Frontend developer
 - ⚡ Fun fact: I love to study Philosophy,psychology and needless to say music never hurts 🤣
 </br>
 
