@@ -56,7 +56,7 @@
 
 
 
-[twitter]: https://twitter.com/sazzad
+[twitter]: https://twitter.com/mdsazza41750849
 
-[instagram]: https://instagram.com/sazzad
-[linkedin]: https://linkedin.com/in/sazzad
+[instagram]: https://www.instagram.com/geekysazzad/
+[linkedin]: https://www.linkedin.com/in/md-sazzad-alam/
