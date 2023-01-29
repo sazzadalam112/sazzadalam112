@@ -1,4 +1,4 @@
-### Hi there, I'm Sazzad - aka [dedgeek!](https://sazzad.me/) 👋
+### Hi there, I'm Sazzad - aka [dedgeek!](https://mdsazzadalam.vercel.app/) 👋
 
 ![](https://komarev.com/ghpvc/?username=sazzad)
 
