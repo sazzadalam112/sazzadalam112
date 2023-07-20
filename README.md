@@ -44,9 +44,9 @@
 </p>
 
 <br>
-
+<p align="center">
 |![](https://github-readme-stats.vercel.app/api?username=sazzad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-|-|-|
+</p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=sazzad&theme=redical)
 
