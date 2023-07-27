@@ -12,50 +12,24 @@
 - ⚡ Fun fact: I love to study Philosophy,psychology and needless to say music never hurts 🤣
 </br>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/geekysazzad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-sazzad-alam/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mdsazza41750849) 
 
-### Connect with me:  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sazzadalam112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sazzadalam112&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadalam112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-</br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sazzadalam112&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### DEV Skills
-<p align="center">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg alt=bootstrap width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
+---
+[![](https://visitcount.itsvg.in/api?id=sazzadalam112&icon=5&color=1)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sazzadalam112) 
 
-
-</p>
-
-<br><br>
-
-<p align="center">
-
-<img width="500" src="https://metrics.lecoq.io/sazzad" alt="Github Metrics">
-
-<br>
-
-</p>
-
-<br>
-
-|![](https://github-readme-stats.vercel.app/api?username=sazzad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
-![](https://activity-graph.herokuapp.com/graph?username=sazzad&theme=redical)
-
-<br>
-
-
-
-
-[twitter]: https://twitter.com/mdsazza41750849
-
-[instagram]: https://www.instagram.com/geekysazzad/
-[linkedin]: https://www.linkedin.com/in/md-sazzad-alam/
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
